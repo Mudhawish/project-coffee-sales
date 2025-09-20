@@ -8,7 +8,7 @@ The project includes **EDA, statistical analysis, regression models, and a Strea
 ## 📂 Project Structure
 ```text
 ├── Coffe_sales.csv                        # Dataset
-├── Project_coffe_sales_with_models_new.ipynb  # Jupyter Notebook (EDA + Modeling)
+├── Project_coffe_sales_with_models.ipynb  # Jupyter Notebook (EDA + Modeling)
 ├── dashboard.py                                 # Streamlit app for dashboard
 ├── requirements.txt                       # Dependencies
 └── README.md                              # Project documentation
